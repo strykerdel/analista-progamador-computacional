@@ -1,1 +1,0 @@
-///diseñar plataforma de ventas 
